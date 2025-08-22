@@ -121,7 +121,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, Its list% will be set to 100%.
+                        Once a level falls onto the Legacy List (Below Top 20), Its list% will be set to 100%.
                     </p>
                 </div>
             </div>
